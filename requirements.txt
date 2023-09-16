@@ -1,0 +1,8 @@
+openai
+python-dotenv
+pandas
+bs4
+streamlit
+openpyxl
+streamlit-extras
+hydralit_components
